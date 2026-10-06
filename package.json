@@ -19,7 +19,7 @@
     "express-session": "^1.17.0",
     "express-validator": "^6.4.0",
     "fs": "0.0.1-security",
-    "gatsby-cli": "^2.11.2",
+    "gatsby-cli": "^5.0.0",
     "handlebars-helper-equal": "^1.0.0",
     "morgan": "^1.10.0",
     "mysql": "^2.18.1",
